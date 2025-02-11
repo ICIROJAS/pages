@@ -1,3 +1,9 @@
+if ("serviceWorker" in navigator) {
+        navigator.serviceWorker
+          .register("./sw.js")
+          .then(() => console.log("Service Worker registrado"))
+          .catch((err) => console.log("Error al registrar Service Worker", err));
+      }
 document.addEventListener("DOMContentLoaded", function () {
     const inputTarea = document.getElementById("txt_tarea");
     const btnAgregar = document.getElementById("btn_add");
