@@ -1,0 +1,21 @@
+{
+  "name": "To-DoList-PWA",
+  "short_name": "To-Do",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "C:/Users/Colibecas/Desktop/to-list/lista.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "C:/Users/Colibecas/Desktop/to-list/Papirus-Team-Papirus-Apps-Logisim-icon.512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
