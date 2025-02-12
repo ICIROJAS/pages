@@ -4,8 +4,8 @@ const urlsToCache = [
   '/index.html',
   '/script.js',
   '/manifest.json',
-  '/C:/Users/Colibecas/Desktop/to-list/lista.png',
-  '/C:/Users/Colibecas/Desktop/to-list/Papirus-Team-Papirus-Apps-Logisim-icon.512.png'
+  '/https://github.com/ICIROJAS/pages/blob/838687e14d66b0d261fd7bec6bbcf1a2c59ff451/lista.png',
+  '/https://github.com/ICIROJAS/pages/blob/838687e14d66b0d261fd7bec6bbcf1a2c59ff451/Papirus-Team-Papirus-Apps-Logisim-icon.512.png'
 ];
 
 self.addEventListener('install', event => {
